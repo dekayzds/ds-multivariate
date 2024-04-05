@@ -1,6 +1,6 @@
 --- 
 title: "Quantitative Methods with RStudio: Application for Management and Business Research"
-author: "Deri Siswara"
+author: "Deri Siswara and Nafisa Berliana Indah Pratiwi"
 # date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
